@@ -3,11 +3,11 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>Apexa - Business Consulting HTML Template</title>
+    <title>GROWTH HUB - CONSULTANT AGENCY</title>
     <script src="{{url('assets/js/vendor/color-modes.js')}}"></script>
     <meta name="description" content="GROWTH HUB - CONSULTANT AGENCY" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png" />
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/blue.png" />
     <!-- Place favicon.ico in the root directory -->
     <!-- CSS here -->
     <link rel="stylesheet" href="{{asset('assets/css/bootstrap.min.css')}}" />
